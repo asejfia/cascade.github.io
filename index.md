@@ -18,5 +18,5 @@ The evaluation data for CasCADe and casulaty changes can be found [here](https:/
 
 ### Contact information 
 
-For any questions regarding CasCADe or casualty changes, send an email to sejfia <at> usc <dot> edu 
+For any questions regarding CasCADe or casualty changes, send an email to sejfia (at) usc (dot) edu 
 
