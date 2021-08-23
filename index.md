@@ -1,4 +1,7 @@
-### CacCADe's workflow 
+
+This website contains information about our project on identifying casualty changes, presented at ESEC/FSE 2021. The full paper can be found [here](). 
+
+### CasCADe's workflow 
 
 CasCADe is a tool to automatically detect casualty changes. An overview of its workflow can be found in the figure below. 
 
