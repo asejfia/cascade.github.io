@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
 title: Identifying Casualty Changes In Software Patches
-description: The website for our project on casualty changes, presented at ESEC/FSE 2021
+description: "The website for our project on casualty changes, presented at ESEC/FSE 2021"
 github:
   is_project_page: false
