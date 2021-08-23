@@ -16,3 +16,7 @@ The full code for CasCADe can be found [here](https://github.com/anonymouscascad
 
 The evaluation data for CasCADe and casulaty changes can be found [here](https://github.com/anonymouscascade/cascade.github.io/raw/gh-pages/EvaluationData.zip). The uncompressed file contains a detailed readme file that explains every part. 
 
+### Contact information 
+
+For any questions regarding CasCADe or casualty changes, send an email to sejfia <at> usc <dot> edu 
+
